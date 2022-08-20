@@ -2,7 +2,18 @@ p {
   font-family: verdana, "Dejavu Sans", sans-serif;
   background-color: rgba(255, 48, 93, 0.518);
 }
+
+.big {
+  font-size: 24px;
+}
+
 #num2 {
-font-size: 32px;
-color: blue;
+  font-size: 32px;
+  color: blue;
+}
+
+#num4 {
+  background-color: rgba(116, 255, 47, 0.721);
+  font-size: 24px;
+  font-weight: bold;
 }
