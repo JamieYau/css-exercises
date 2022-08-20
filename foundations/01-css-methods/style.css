@@ -3,5 +3,6 @@ div {
     background-color: red;
     font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: bold
+    font-weight: bold;
+    text-align: center;
 }
