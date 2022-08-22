@@ -7,6 +7,32 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+}
+
+a {
+  /* this removes the line under our links */
+  text-decoration: none;
+  color: rgb(70, 70, 70);
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+  gap: 16px;
+}
+
+.left-links, .right-links{
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
 img {
   width: 600px;
 }
@@ -25,3 +51,4 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
