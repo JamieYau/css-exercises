@@ -23,6 +23,7 @@ img {
 .info {
   display: flex;
   flex-direction: column;
+  align-items: center;
   max-width: 200px;
 }
 /* do not edit this footer */
