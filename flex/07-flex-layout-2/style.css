@@ -5,9 +5,11 @@ body {
 }
 
 .header {
-  height: 72px;
   background: darkmagenta;
   color: white;
+  font-size: 32px;
+  font-weight: bold;
+  padding: 8px;
 }
 
 .footer {
